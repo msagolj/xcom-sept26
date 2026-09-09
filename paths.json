@@ -1,0 +1,8 @@
+{
+  "mappings": [
+    "/content/aem-boilerplate-commerce/:/"
+  ],
+  "includes": [
+    "/content/aem-boilerplate-commerce/"
+  ]
+}
